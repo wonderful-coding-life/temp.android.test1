@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         // TODO add function a
 
         // TODO add function b
+
+        // TODO add function c
     }
 }
